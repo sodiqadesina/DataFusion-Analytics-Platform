@@ -1,0 +1,5 @@
+ec\stats\hd\StatsMR.class
+ec\stats\hd\StatsMap.class
+ec\stats\hd\StatsWritable.class
+ec\stats\hd\StatsCombine.class
+ec\stats\hd\StatsReduce.class

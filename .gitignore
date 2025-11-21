@@ -1,0 +1,6 @@
+# Maven / build outputs
+/ec-spark/target/
+
+# Hugging Face model checkpoints
+/ec-transformer-finetune/ec-finetuned-emotion/
+/ec-transformer-finetune/data/emotions/
